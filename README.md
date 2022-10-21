@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="nlw-esports" src="preview.jpg" width="100%">
+  <img alt="nlw-esports" src="preview.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
