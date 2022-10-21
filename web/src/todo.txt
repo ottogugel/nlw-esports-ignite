@@ -1,0 +1,28 @@
+// JSX - JavaScript + XML (Sintaxe do HTML)
+
+// Componenntes + Propriedades
+
+// <img src=""
+
+// Componente é sempre uma função com o nome sempre com a letra Maiscula e que retorna um conjunto de tags HTML. Quando esse HTML vai ter mais uma de linha, eu posso quebrar ele.
+
+// interface ButtonProps {
+  title: string;
+}
+
+// function Button(props: ButtonProps) {
+return (
+  <button>
+    {props.title}
+  </button>
+)
+}
+
+//  <Button title="Send 1" />
+    <Button title="Send 2" />
+    <Button title="Send 3" />
+    <Button title="Hello World" />
+
+// npx - executar alguma biblioteca que a gente já tenha instalado em nosso projeto.
+
+// método map. que ele consegue percorrer um array no js, e retornar algo dentro dele.
